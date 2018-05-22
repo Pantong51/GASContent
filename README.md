@@ -18,6 +18,8 @@ Repo to gather all GAS content for UE4
 ##### Forums
 * [DamirH's Forum Post](https://forums.unrealengine.com/showthread.php?143688-Comprehensive-GameplayAbilities-Analysis-Series&p=702209)
 * [KZJ's Forum Post](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/110113-gameplayabilities-and-you)
+##### Blogs
+* [jcilla]http://jcilla.github.io/ue4/2017/05/18/intro-to-gameplay-abilities.html
 ### GAS Community
 * [Unreal Slackers](http://unrealslackers.org/)
 ### GAS Tutorials
