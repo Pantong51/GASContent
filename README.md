@@ -1,12 +1,12 @@
 ### **GASContent**
 Repo to gather all GAS content for UE4
 
-- [Gameplay Ability System(GAS)](#Gameplay-Ability-System)
-  - [GAS General Resources](#GAS-General-Resources)
-  - [GAS Community](#GAS-Community)
-  - [GAS Tutorials](#GAS-Tutorials)
-  - [GAS Examples](#GAS-Examples)
-  - [GAS Videos](#GAS-Videos)
+- [Gameplay Ability System(GAS)](#gameplay-ability-system)
+  - [GAS General Resources](#gas-general-resources)
+  - [GAS Community](#gas-community)
+  - [GAS Tutorials](#gas-tutorials)
+  - [GAS Examples](#gas-examples)
+  - [GAS Videos](#gas-videos)
 
 ### Gameplay Ability System
 
