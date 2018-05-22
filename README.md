@@ -1,4 +1,4 @@
-### **GASContent**
+## **GASContent**
 Repo to gather all GAS content for UE4
 
 - [Gameplay Ability System(GAS)](#gameplay-ability-system)
@@ -8,9 +8,9 @@ Repo to gather all GAS content for UE4
   - [GAS Examples](#gas-examples)
   - [GAS Videos](#gas-videos)
 
-### Gameplay Ability System
+## Gameplay Ability System
 
-#### GAS General Resources
+### GAS General Resources
 ##### External Wiki's
 * [Gameplay Abilities and you](https://wiki.unrealengine.com/GameplayAbilities_and_You)
 ##### Slide Shows
@@ -18,13 +18,13 @@ Repo to gather all GAS content for UE4
 ##### Forums
 * [DamirH's Forum Post](https://forums.unrealengine.com/showthread.php?143688-Comprehensive-GameplayAbilities-Analysis-Series&p=702209)
 * [KZJ's Forum Post](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/110113-gameplayabilities-and-you)
-#### GAS Community
+### GAS Community
 * [Unreal Slackers](http://unrealslackers.org/)
-#### GAS Tutorials
+### GAS Tutorials
 
-#### GAS Examples
+### GAS Examples
 * [Woppin's Code](https://github.com/daveratti/GameplayAbilitiesSamplehttps://github.com/michaeltchapman/MCGameplayAbilitiesForums)
 
-#### GAS Videos
+### GAS Videos
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
 
