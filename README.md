@@ -15,7 +15,7 @@ Repo to gather all GAS content for UE4
 * [Woppin's Slide Show](https://docs.google.com/presentation/d/1GeuDO2as1b12ei5OHh6jyfxczVYymXJQDBWoRLDMpOI/edit#slide=id.g38b84aa984_0_32Videos)
 * [GAS Forum Post](https://forums.unrealengine.com/showthread.php?143688-Comprehensive-GameplayAbilities-Analysis-Series&p=702209)
 #### GAS Community
-
+* [Unreal Slackers](http://unrealslackers.org/)
 #### GAS Tutorials
 
 #### GAS Examples
