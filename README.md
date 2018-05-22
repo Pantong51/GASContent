@@ -1,28 +1,33 @@
 ## **GASContent**
 Repo to gather all GAS content for UE4
 
+![Beta](https://img.shields.io/badge/Gameplay%20Ability%20System-Beta-yellowgreen.svg) ![API](https://img.shields.io/badge/API%20Documentation-None-red.svg)
+
 - [Gameplay Ability System(GAS)](#gameplay-ability-system)
   - [GAS Intro](#gas-intro)
   - [GAS General Resources](#gas-general-resources)
   - [GAS Community](#gas-community)
   - [GAS Tutorials](#gas-tutorials)
   - [GAS Examples](#gas-examples)
+  - [GAS Templates](#gas-templates)
   - [GAS Videos](#gas-videos)
 
 ## Gameplay Ability System
 
-### GAS Intro (Taken from "Gameplay Abilities and You")
-So, what's a GameplayAbility?
+### GAS Intro
+(Taken from "Gameplay Abilities and You")
+
+#### So, what's a GameplayAbility?
 
 Basically, they're like the abilities you have in Dota or equivalent games. You can cast a fireball, and this fireball hits a player, explodes (doing a set amount of damage), and sets everyone in the radius of the explosion on fire (doing damage over time). Meanwhile, the player who cast the fireball loses some mana and is put on cooldown.
 
 You could use Epic's GameplayAbility plugin to do all of those things. The module is hard to wrap your head around, but once you learn how powerful they can be and how to properly make use of them, they can make your life much, much easier.
 
-But why use this over rolling your own system?
+#### But why use this over rolling your own system?
 
 GameplayAbilities can come in handy if your game is in need of a powerful skill, buff and attribute system that is both easy to extend and crazy-efficient to replicate. This can do wonders for people working on a multiplayer RPG with a lot of skills/classes or perhaps even a MOBA, but you can use this system for pretty much any game you want. The main problem is that it isn't the easiest to comprehend, quite big and may get a little in your way the further you stray too far away from this multiplayer RPG ideal, so not every game will get the same mileage out of it.
 
-Well, that sounds like a dream, but where do I get it?
+#### Well, that sounds like a dream, but where do I get it?
 
 Well, first of all, GameplayAbilities is a code module that used to be integrated into UE4's source, but since this current version (4.15, that is, people from the future) has been moved into a separate plugin that is delivered alongside the Unreal Engine, so that it may not take away space in your games if they do not make use of the system. This system does not actually originate as a built-in engine feature, but has, in fact, been kindly left in there from the developers of Paragon and Fortnite for third parties to enjoy. Unfortunately, due to these unique circumstances, the module as a whole is quite messy, poorly (read: barely at all, your best bet are code comments and even those are only there like half the time) documented, and rarely updated and cleaned up.
 
@@ -49,6 +54,8 @@ With all that said, let's get started, finally.
 ### GAS Examples
 * [Woppin's Code](https://github.com/daveratti/GameplayAbilitiesSamplehttps://github.com/michaeltchapman/MCGameplayAbilitiesForums)
 * [daveratti's Code](https://github.com/daveratti/GameplayAbilitiesSample)
+
+### GAS Templates
 
 ### GAS Videos
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
