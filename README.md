@@ -52,7 +52,7 @@ With all that said, let's get started, finally.
 ### GAS Tutorials
 
 ### GAS Examples
-* [Woppin's Code](https://github.com/daveratti/GameplayAbilitiesSamplehttps://github.com/michaeltchapman/MCGameplayAbilitiesForums)
+* [Woppin's Code](https://github.com/michaeltchapman/MCGameplayAbilities)
 * [daveratti's Code](https://github.com/daveratti/GameplayAbilitiesSample)
 
 ### GAS Templates
