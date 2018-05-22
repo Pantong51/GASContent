@@ -24,6 +24,7 @@ Repo to gather all GAS content for UE4
 
 ### GAS Examples
 * [Woppin's Code](https://github.com/daveratti/GameplayAbilitiesSamplehttps://github.com/michaeltchapman/MCGameplayAbilitiesForums)
+* [daveratti's Code](https://github.com/daveratti/GameplayAbilitiesSample)
 
 ### GAS Videos
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
