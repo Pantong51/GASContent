@@ -59,4 +59,5 @@ With all that said, let's get started, finally.
 
 ### GAS Videos
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
+* [Sydney Unreal Meetup](https://www.youtube.com/watch?v=OyiweL2nPac)
 
