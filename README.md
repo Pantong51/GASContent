@@ -47,6 +47,10 @@ With all that said, let's get started, finally.
 * [KZJ's Forum Post](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/110113-gameplayabilities-and-you)
 ##### Blogs
 * [jcilla](http://jcilla.github.io/ue4/2017/05/18/intro-to-gameplay-abilities.html)
+##### User Made UML
+* [Congurent's UML](https://github.com/FuzzySockets/GAS-Resources/blob/master/images/GAS-UML-WIP.jpg)
+##### Misc Lists
+* [Congurent's GAS List](https://github.com/FuzzySockets/GAS-Resources)
 ### GAS Community
 * [Unreal Slackers](http://unrealslackers.org/)
 ### GAS Tutorials
