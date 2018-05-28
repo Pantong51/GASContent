@@ -54,6 +54,7 @@ With all that said, let's get started, finally.
 ### GAS Community
 * [Unreal Slackers](http://unrealslackers.org/)
 ### GAS Tutorials
+* [Binding to Gameplay Attributes For UI Updates](Tutorial_Attribute_Delegates.md)
 
 ### GAS Examples
 * [Woppin's Code](https://github.com/michaeltchapman/MCGameplayAbilities)
