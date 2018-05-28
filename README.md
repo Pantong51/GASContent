@@ -47,16 +47,21 @@ With all that said, let's get started, finally.
 * [KZJ's Forum Post](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/110113-gameplayabilities-and-you)
 ##### Blogs
 * [jcilla](http://jcilla.github.io/ue4/2017/05/18/intro-to-gameplay-abilities.html)
+##### User Made UML
+* [Congurent's UML](https://github.com/FuzzySockets/GAS-Resources/blob/master/images/GAS-UML-WIP.jpg)
+##### Misc Lists
+* [Congurent's GAS List](https://github.com/FuzzySockets/GAS-Resources)
 ### GAS Community
 * [Unreal Slackers](http://unrealslackers.org/)
 ### GAS Tutorials
 
 ### GAS Examples
-* [Woppin's Code](https://github.com/daveratti/GameplayAbilitiesSamplehttps://github.com/michaeltchapman/MCGameplayAbilitiesForums)
+* [Woppin's Code](https://github.com/michaeltchapman/MCGameplayAbilities)
 * [daveratti's Code](https://github.com/daveratti/GameplayAbilitiesSample)
 
 ### GAS Templates
 
 ### GAS Videos
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
+* [Sydney Unreal Meetup](https://www.youtube.com/watch?v=OyiweL2nPac)
 
