@@ -15,7 +15,7 @@ FHealthChange OnHealthChange;
   
 Then we want to declare a function that will be called by the Attribute's delegate to fire our delegate (or do what ever kind of processing you need to)
   
-``'
+```
 void HealthAttributeUpdated(const FOnAttributeChangeData& Data);
 {
 	OnHealthChange.Broadcast(Data.NewValue);
