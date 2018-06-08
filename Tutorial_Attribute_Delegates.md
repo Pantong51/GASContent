@@ -15,8 +15,11 @@ FHealthChange OnHealthChange;
   
 Then we want to declare a function that will be called by the Attribute's delegate to fire our delegate (or do what ever kind of processing you need to)
   
-```
+``'
 void HealthAttributeUpdated(const FOnAttributeChangeData& Data);
+{
+	OnHealthChange.Broadcast(Data.NewValue);
+{
 ```
 
 Finally we need to bind to the actual Attribute delegate, which we will do in the BeginPlay() function of your character's cpp file.
