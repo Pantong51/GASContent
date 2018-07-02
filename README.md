@@ -40,6 +40,13 @@ With all that said, let's get started, finally.
 ### GAS General Resources
 ##### Epic's Action RPG Documentation
 * [Action RPG](https://webcache.googleusercontent.com/search?q=cache:https://docs.unrealengine.com/en-us/Resources/SampleGames/ARPG)
+note - You cannot click on any links here it's a webcache, you much type in the url like this
+> https://webcache.googleusercontent.com/search?q=cache:https://docs.unrealengine.com/en-us/Resources/SampleGames/ARPG
+
+> https://webcache.googleusercontent.com/search?q=cache:https://docs.unrealengine.com/en-US/Resources/SampleGames/ARPG/BuildingGameplayinC-forActionRPG
+
+> https://webcache.googleusercontent.com/search?q=cache:https://docs.unrealengine.com/en-us/Resources/SampleGames/ARPG/ExecutingAbilitiesInARPG
+
 ##### External Wiki's
 * [Gameplay Abilities and you](https://wiki.unrealengine.com/GameplayAbilities_and_You)
 ##### Slide Shows
