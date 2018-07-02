@@ -38,6 +38,8 @@ In other words, it is a total flippin' pain in the buttocks to wrap your head ar
 With all that said, let's get started, finally.
 
 ### GAS General Resources
+##### Epic's Action RPG Documentation
+* [Action RPG](https://webcache.googleusercontent.com/search?q=cache:https://docs.unrealengine.com/en-us/Resources/SampleGames/ARPG)
 ##### External Wiki's
 * [Gameplay Abilities and you](https://wiki.unrealengine.com/GameplayAbilities_and_You)
 ##### Slide Shows
