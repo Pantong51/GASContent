@@ -38,9 +38,12 @@ In other words, it is a total flippin' pain in the buttocks to wrap your head ar
 With all that said, let's get started, finally.
 
 ### GAS General Resources
+#### Epic's Official Documentation
+* [Documentation](https://docs.unrealengine.com/en-us/Gameplay/GameplayAbilitySystem)
 ##### Epic's Action RPG Documentation
 * [Action RPG](https://docs.unrealengine.com/en-us/Resources/SampleGames/ARPG)
 note - You can download the learning example from the Epic Games Launcher under the Learn tab.
+
 
 
 ##### External Wiki's
@@ -64,6 +67,9 @@ note - You can download the learning example from the Epic Games Launcher under 
 ### GAS Examples
 * [Woppin's Code](https://github.com/michaeltchapman/MCGameplayAbilities)
 * [daveratti's Code](https://github.com/daveratti/GameplayAbilitiesSample)
+
+### GAS Tutorials
+* [Tom Loomans RAGE Potion](https://www.youtube.com/watch?v=Tu5AJKNe1Ok)
 
 ### GAS Templates
 
