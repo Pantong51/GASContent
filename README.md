@@ -67,6 +67,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 ### GAS Examples
 * [Woppin's Code](https://github.com/michaeltchapman/MCGameplayAbilities)
 * [daveratti's Code](https://github.com/daveratti/GameplayAbilitiesSample)
+* [David E. Nishball](https://github.com/DavidENishball/Unreal_GameplayAbilities_FirstPerson)
 
 ### GAS Tutorials
 * [Tom Loomans RAGE Potion](https://www.youtube.com/watch?v=Tu5AJKNe1Ok)
