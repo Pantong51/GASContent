@@ -68,6 +68,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [Woppin's Code](https://github.com/michaeltchapman/MCGameplayAbilities)
 * [daveratti's Code](https://github.com/daveratti/GameplayAbilitiesSample)
 * [David E. Nishball](https://github.com/DavidENishball/Unreal_GameplayAbilities_FirstPerson)
+* [aa1000](https://github.com/aa1000/GASTanksVsZombies)
 * [KaosSpectrum's Task_RepeactAction](https://gist.github.com/KaosSpectrum/c602c6d57c315b7fa787420cfa89abfb)
 
 ### GAS Tutorials
