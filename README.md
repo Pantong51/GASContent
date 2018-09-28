@@ -11,6 +11,7 @@ Repo to gather all GAS content for UE4
   - [GAS Examples](#gas-examples)
   - [GAS Templates](#gas-templates)
   - [GAS Videos](#gas-videos)
+  - [GAS Training](#gas-training)
 
 ## Gameplay Ability System
 
@@ -80,3 +81,6 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
 * [Sydney Unreal Meetup](https://www.youtube.com/watch?v=OyiweL2nPac)
 
+### GAS Training
+#### Please try to learn on your own rather than paying for videos. Ask questions in the Unreal Slackers Discord for help!
+* [Introduction to Unreal Engine 4 Ability System -UE4](https://www.udemy.com/introduction-to-unreal-engine-4-ability-system/)
