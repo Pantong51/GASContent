@@ -71,6 +71,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [David E. Nishball](https://github.com/DavidENishball/Unreal_GameplayAbilities_FirstPerson)
 * [aa1000](https://github.com/aa1000/GASTanksVsZombies)
 * [KaosSpectrum's Task_RepeactAction](https://gist.github.com/KaosSpectrum/c602c6d57c315b7fa787420cfa89abfb)
+* [Client side prediction with single projectile](https://github.com/roidanton/ue_gas_prediction)
 
 ### GAS Tutorials
 * [Tom Loomans RAGE Potion](https://www.youtube.com/watch?v=Tu5AJKNe1Ok)
