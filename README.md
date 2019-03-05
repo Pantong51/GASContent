@@ -58,6 +58,8 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [jcilla](http://jcilla.github.io/ue4/2017/05/18/intro-to-gameplay-abilities.html)
 ##### User Made UML
 * [Congurent's UML](https://github.com/FuzzySockets/GAS-Resources/blob/master/images/GAS-UML-WIP.jpg)
+##### Q&A
+* [Epic's Q&A](https://epicgames.app.box.com/s/m1egifkxv3he3u3xezb9hzbgroxyhx89)
 ##### Misc Lists
 * [Congurent's GAS List](https://github.com/FuzzySockets/GAS-Resources)
 ### GAS Community
