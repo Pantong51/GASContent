@@ -66,6 +66,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [Unreal Slackers](http://unrealslackers.org/)
 ### GAS Tutorials
 * [Community Tutorial by Narxim](https://github.com/Narxim/Narxim-GAS-Tutorial)
+* [Tom Loomans RAGE Potion](https://www.youtube.com/watch?v=Tu5AJKNe1Ok)
 * [Binding to Gameplay Attributes For UI Updates](Tutorial_Attribute_Delegates.md)
 
 ### GAS Examples
@@ -76,9 +77,6 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [KaosSpectrum's Task_RepeactAction](https://gist.github.com/KaosSpectrum/c602c6d57c315b7fa787420cfa89abfb)
 * [Client side prediction with single projectile](https://github.com/roidanton/ue_gas_prediction)
 * [MODriscoll's GameplayEffectExecutionCalculation Example](https://gitlab.com/MODriscoll/project-eden/blob/master/Source/EdensGarden/Private/SpecOp/Calculations/BreathDamageCalculation.cpp)
-
-### GAS Tutorials
-* [Tom Loomans RAGE Potion](https://www.youtube.com/watch?v=Tu5AJKNe1Ok)
 
 ### GAS Templates
 
