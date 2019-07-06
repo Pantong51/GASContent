@@ -65,6 +65,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 ### GAS Community
 * [Unreal Slackers](http://unrealslackers.org/)
 ### GAS Tutorials
+* [Community Tutorial by Narxim](https://github.com/Narxim/Narxim-GAS-Tutorial)
 * [Binding to Gameplay Attributes For UI Updates](Tutorial_Attribute_Delegates.md)
 
 ### GAS Examples
