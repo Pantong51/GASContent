@@ -83,6 +83,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 ### GAS Videos
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
 * [Sydney Unreal Meetup](https://www.youtube.com/watch?v=OyiweL2nPac)
+* [AI with Behavioral Trees](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2019/hero-ai---gameplay-abilities-meet-behavior-trees)
 
 ### GAS Training
 #### Please try to learn on your own rather than paying for videos. Ask questions in the Unreal Slackers Discord for help!
