@@ -77,6 +77,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [KaosSpectrum's Task_RepeactAction](https://gist.github.com/KaosSpectrum/c602c6d57c315b7fa787420cfa89abfb)
 * [Client side prediction with single projectile](https://github.com/roidanton/ue_gas_prediction)
 * [MODriscoll's GameplayEffectExecutionCalculation Example](https://gitlab.com/MODriscoll/project-eden/blob/master/Source/EdensGarden/Private/SpecOp/Calculations/BreathDamageCalculation.cpp)
+* [Gameplay Abilities Meet Behavior Trees @ Daedalic Entertainment](https://github.com/DaedalicEntertainment/ue4-orders-abilities)
 
 ### GAS Templates
 
