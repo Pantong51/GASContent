@@ -70,6 +70,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [Binding to Gameplay Attributes For UI Updates](Tutorial_Attribute_Delegates.md)
 
 ### GAS Examples
+* [Dan's Knowledge and Gameplay Example](https://github.com/tranek/GASDocumentation)
 * [Woppin's Code](https://github.com/michaeltchapman/MCGameplayAbilities)
 * [daveratti's Code](https://github.com/daveratti/GameplayAbilitiesSample)
 * [David E. Nishball](https://github.com/DavidENishball/Unreal_GameplayAbilities_FirstPerson)
@@ -87,5 +88,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [AI with Behavioral Trees](https://www.unrealengine.com/en-US/events/unreal-fest-europe-2019/hero-ai---gameplay-abilities-meet-behavior-trees)
 
 ### GAS Training
+* [Dan's Knowledge and Gameplay Example](https://github.com/tranek/GASDocumentation)
+This is here on the list twice because it is a very extensive analysys that has a lot of information.
 #### Please try to learn on your own rather than paying for videos. Ask questions in the Unreal Slackers Discord for help!
 * [Introduction to Unreal Engine 4 Ability System -UE4](https://www.udemy.com/introduction-to-unreal-engine-4-ability-system/)
