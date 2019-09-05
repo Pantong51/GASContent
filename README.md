@@ -10,6 +10,7 @@ Repo to gather all GAS content for UE4
   - [GAS Tutorials](#gas-tutorials)
   - [GAS Examples](#gas-examples)
   - [GAS Templates](#gas-templates)
+  - [GAS Discussions](#gas-discussions)
   - [GAS Videos](#gas-videos)
   - [GAS Training](#gas-training)
 
@@ -81,6 +82,9 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [Gameplay Abilities Meet Behavior Trees @ Daedalic Entertainment](https://github.com/DaedalicEntertainment/ue4-orders-abilities)
 
 ### GAS Templates
+
+### GAS Discussions
+* [Dave Ratti on Weapons](https://forums.unrealengine.com/development-discussion/c-gameplay-programming/1660211-gameplay-abilities-and-weapon-firing)
 
 ### GAS Videos
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
