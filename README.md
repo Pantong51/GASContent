@@ -84,7 +84,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 ### GAS Templates
 
 ### GAS Discussions
-* [Dave Ratti on Weapons](https://forums.unrealengine.com/development-discussion/c-gameplay-programming/1660211-gameplay-abilities-and-weapon-firing)
+* [Dave Ratti on Weapons & RPC Batcher](https://forums.unrealengine.com/development-discussion/c-gameplay-programming/1660211-gameplay-abilities-and-weapon-firing)
 
 ### GAS Videos
 * [Intro to Gameplay Abilities in Unreal Engine 4 by SabreDartStudios](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
