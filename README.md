@@ -57,6 +57,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [KZJ's Forum Post](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/110113-gameplayabilities-and-you)
 ##### Blogs
 * [jcilla](http://jcilla.github.io/ue4/2017/05/18/intro-to-gameplay-abilities.html)
+* [KaosSpectrum](https://www.thegames.dev/2019/07/25/gameplay-ability-system-creating-your-own-gameplayabilityactorinfo/)
 ##### User Made UML
 * [Congurent's UML](https://github.com/FuzzySockets/GAS-Resources/blob/master/images/GAS-UML-WIP.jpg)
 ##### Q&A
