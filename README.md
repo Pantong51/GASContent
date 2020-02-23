@@ -82,6 +82,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [MODriscoll's GameplayEffectExecutionCalculation Example](https://gitlab.com/MODriscoll/project-eden/blob/master/Source/EdensGarden/Private/SpecOp/Calculations/BreathDamageCalculation.cpp)
 * [Gameplay Abilities Meet Behavior Trees @ Daedalic Entertainment](https://github.com/DaedalicEntertainment/ue4-orders-abilities)
 * [GASShooter by Dan(tranek)](https://github.com/tranek/GASShooter)
+* [fpwong](https://github.com/fpwong/FPGameplayAbilities)
 
 ### GAS Templates
 
