@@ -83,6 +83,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 * [Gameplay Abilities Meet Behavior Trees @ Daedalic Entertainment](https://github.com/DaedalicEntertainment/ue4-orders-abilities)
 * [GASShooter by Dan(tranek)](https://github.com/tranek/GASShooter)
 * [fpwong](https://github.com/fpwong/FPGameplayAbilities)
+* [MichaeltChapman](https://gist.github.com/michaeltchapman/e305f6468f302f52a85ca767935afb08)
 
 ### GAS Templates
 
