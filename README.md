@@ -42,6 +42,7 @@ With all that said, let's get started, finally.
 ### GAS General Resources
 #### Epic's Official Documentation
 * [Documentation](https://docs.unrealengine.com/en-us/Gameplay/GameplayAbilitySystem)
+* [API Documentation](https://docs.unrealengine.com/en-US/API/Plugins/GameplayAbilities/index.html)
 ##### Epic's Action RPG Documentation
 * [Action RPG](https://docs.unrealengine.com/en-us/Resources/SampleGames/ARPG)
 note - You can download the learning example from the Epic Games Launcher under the Learn tab.
