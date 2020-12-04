@@ -50,7 +50,7 @@ note - You can download the learning example from the Epic Games Launcher under 
 
 
 ##### External Wiki's
-* [Gameplay Abilities and you](https://wiki.unrealengine.com/GameplayAbilities_and_You)
+* [Gameplay Abilities and you](https://nerivec.github.io/old-ue4-wiki/pages/gameplayabilities-and-you.html)
 ##### Slide Shows
 * [Woppin's Slide Show](https://docs.google.com/presentation/d/1GeuDO2as1b12ei5OHh6jyfxczVYymXJQDBWoRLDMpOI/edit#slide=id.g38b84aa984_0_32Videos)
 ##### Forums
