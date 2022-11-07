@@ -1,7 +1,8 @@
 ## **GASContent**
 Repo to gather all GAS content for UE4
+Note: I accept PR's for this repro, but i not longer actively seek out new content for it. Note, look for Dan's link thats the good shit.
 
-![Beta](https://img.shields.io/badge/Gameplay%20Ability%20System-Beta-yellowgreen.svg) ![API](https://img.shields.io/badge/API%20Documentation-Some-yellowgreen.svg)
+![Beta](https://img.shields.io/badge/Gameplay%20Ability%20System-Released-green) ![API](https://img.shields.io/badge/Documentation%20-A%20lot-green)
 
 - [Gameplay Ability System(GAS)](#gameplay-ability-system)
   - [GAS Intro](#gas-intro)
